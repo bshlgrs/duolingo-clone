@@ -1,4 +1,4 @@
 # duolingo clone
 
 
-![sdf](./duolingo clone demo.png)
+![screenshot of app](./demo.png)
